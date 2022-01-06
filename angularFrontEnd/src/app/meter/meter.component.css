@@ -1,0 +1,38 @@
+.meter{
+  margin-top: 1.875rem;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25%;
+}
+.name{
+  width: 23.3125rem;
+  height: 6.25rem;
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 0.625rem;
+  line-height: 5rem;
+
+
+  background: #FFFFFF;
+  box-shadow: 9px 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.value{
+  padding-top: 0.625rem;
+  text-align: center;
+  margin-top: 1.875rem;
+  width: 23.3125rem;
+  height: 12.5rem;
+  background: #FFFFFF;
+  border-radius: 25px;
+}
+
+@media screen and (max-width: 900px){
+  .meter{
+    position: relative;
+    display: block;
+    margin-left: auto;
+  }
+
+}

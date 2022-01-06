@@ -1,0 +1,19 @@
+.graph{
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25%;
+}
+.chart{
+  margin-top: 1.875rem;
+  position: relative;
+  vertical-align: top;
+  padding-left: 25px;
+  padding-top: 0.625rem;
+  align-items: center;
+  margin-top: 1.875rem;
+  width: 37.5rem;
+  height: 20rem;
+  background: #FFFFFF;
+  border-radius: 25px;
+}

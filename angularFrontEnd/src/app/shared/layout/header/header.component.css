@@ -1,0 +1,15 @@
+.header{
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  background-color: #513838;
+  color: white;
+  padding-top: 2.25rem;
+  padding-bottom: 2.25rem;
+}
+.header img {
+  position: relative;
+  top: 0.4375rem;
+  width: 2.9375rem;
+  height: auto;
+}

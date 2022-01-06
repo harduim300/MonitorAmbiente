@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap");
+html, body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background: #DAD8D8;
+  font-family: 'Supermercado One', sans-serif;
+}
+
